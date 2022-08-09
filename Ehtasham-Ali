@@ -2,7 +2,7 @@
 #!/usr/bin/python
 # coding=utf-8
 # coded by : Ehtasham_Ali 
-# https://www.facebook.com/Ehtasham.ali0711
+# https://m.facebook.com/Ehtasham.ali0711
 
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
@@ -72,7 +72,7 @@ logo = """
 \033[1;97m--------------------------------------------------
 \033[1;93m➤\033[1;97m Author   : Ehtasham-Ali
 \033[1;93m➤\033[1;97m Github   : https://github.com/Ehtasham-Ali
-\033[1;93m➤\033[1;97m Fb Id  : https://www.facebook.com/Ehtasham.ali0711
+\033[1;93m➤\033[1;97m Fb Id  : https://facebook.com/Ehtasham.ali0711
 \033[1;97m--------------------------------------------------
 """
 
@@ -115,7 +115,7 @@ def tech_abm():
             tech_abm()
     else:
         print ("\t [!] Username : "+username+" (Wrong)")
-	os.system('xdg-open https://m.facebook.com/Xami.Devil')
+	os.system('xdg-https://m.facebook.com/Ehtasham.ali0711
         time.sleep(1)
         tech_abm()
 	
@@ -177,7 +177,7 @@ def clone_loginvia():
         sav.write(token)
         sav.close()
         abm("\r\033[1;92m[✓] Login Successfull\033[0;97m")
-	os.system('xdg-open https://m.facebook.com/Techabm')
+	os.system('xdg-open https://m.facebook.com/Ehtasham.ali0711
         time.sleep(1)
         menu()
     elif hack =="2":
