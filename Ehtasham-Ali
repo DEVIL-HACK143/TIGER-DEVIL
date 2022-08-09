@@ -1,8 +1,8 @@
 # coding=utf-8
 #!/usr/bin/python
 # coding=utf-8
-# coded by : Tiger-Devil 
-# https://www.facebook.com/Xami.Devil
+# coded by : Ehtasham_Ali 
+# https://www.facebook.com/Ehtasham.ali0711
 
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
@@ -64,15 +64,15 @@ logo = """
 \033[1;97m             @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m            @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m           @@@•••••••••••••••••••••••••@@@ \033[1;0m
-\033[1;97m          @@@••••••••••DEVIL•••••••@@@ \033[1;0m
-\033[1;97m         @@@••••••••••TIGER•••••••@@@ \033[1;0m
+\033[1;97m          @@@••••••••••Ehtasham•••••••@@@ \033[1;0m
+\033[1;97m         @@@••••••••••Ali•••••••@@@ \033[1;0m
 \033[1;97m        @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m       @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m      @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m--------------------------------------------------
-\033[1;93m➤\033[1;97m Author   : Tiger-Devil
-\033[1;93m➤\033[1;97m Github   : https://github.com/TERmuxkiler
-\033[1;93m➤\033[1;97m Fb Id  : https://facebook.com/Xami.Devil
+\033[1;93m➤\033[1;97m Author   : Ehtasham-Ali
+\033[1;93m➤\033[1;97m Github   : https://github.com/Ehtasham-Ali
+\033[1;93m➤\033[1;97m Fb Id  : https://www.facebook.com/Ehtasham.ali0711
 \033[1;97m--------------------------------------------------
 """
 
@@ -85,12 +85,12 @@ def tech_abm():
     print('')
     print("\033[1;97m--------------------------------------------------")
     username = raw_input("\033[1;97m[+]\033[1;97m Username :\033[1;97m ")
-    if username =="Tiger":
+    if username =="Ehtasham":
         os.system("clear")
         print logo
-        print ("[+] Username : Tiger (Correct)")
+        print ("[+] Username : Ehtasham (Correct)")
         passwordss = raw_input("\033[1;97m[+]\033[1;97m Password :\033[1;97m ")
-        if passwordss =="Devil":
+        if passwordss =="Ali":
             os.system("clear")
             print logo
             logging()
@@ -110,7 +110,7 @@ def tech_abm():
             login_choice()
         else:
             print ("\t [!] Password : "+passwordss+" (Wrong)")
-	    os.system('xdg-open https://m.facebook.com/Xami.Devil')
+	    os.system('xdg-open https://www.facebook.com/Ehtasham.ali0711')
             time.sleep(1)
             tech_abm()
     else:
